@@ -16,7 +16,7 @@ I'm a **former medical student turned software engineer** currently pursuing a *
 
 ## 📬 Get in Touch
 
-- 🌐 [**Portfolio:**](www.faisalsherif.online)
-- 📜 [**GitHub:**](https://github.com/faisalsherif7/)
-- ✉️ [**Email:**](faisalsherif+github@outlook.com)
-- 📝 [**LinkedIn:**](https://www.linkedin.com/in/faisal-s-70b442262/)
+- 🌐 [**Portfolio**](www.faisalsherif.online)
+- 📜 [**GitHub**](https://github.com/faisalsherif7/)
+- ✉️ [**Email**](faisalsherif+github@outlook.com)
+- 📝 [**LinkedIn**](https://www.linkedin.com/in/faisal-s-70b442262/)
