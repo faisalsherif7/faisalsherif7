@@ -9,19 +9,14 @@ I'm a **former medical student turned software engineer** currently pursuing a *
 - 🎓 Strong foundation in programming fundamentals, with experience in **Javascript and Python**.
 - 🌍 Goal: **Build expertise in software engineering, security, and enterprise development**.
 
----
-
 ## 🛠️ Tech & Tools
 
 - **Languages:** Java, JavaScript, Python
 - **Development Tools:** Git, GitHub, Linux, Docker
-- **Research Interests:** Software safety, cybersecurity, DevOps, system reliability
-
----
 
 ## 📬 Get in Touch
 
-- 🌐 **Portfolio:** [faisalsherif.online]
+- 🌐 **Portfolio:** [www.faisalsherif.online]
 - 📜 **GitHub:** [https://github.com/faisalsherif7/]
 - ✉️ **Email:** [faisalsherif+github@outlook.com]
 - 📝 **LinkedIn:** [https://www.linkedin.com/in/faisal-s-70b442262/]
