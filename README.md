@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Faisal
 
-<!--
-**faisalsherif7/faisalsherif7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a **former medical student turned software engineer** currently pursuing a **Master's in Computer Science at Aston University**. My journey into tech started with **CS50x**, and I have since explored **full-stack web development, software engineering principles, and Java development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Background:
+- 📍 Originally from **India**, studied medicine in **Ukraine**.
+- 🎓 Strong foundation in programming fundamentals, with experience in **Javascript and Python**.
+- 🌍 Goal: **Build expertise in software engineering, security, and enterprise development**.
+
+---
+
+## 🛠️ Tech & Tools
+
+- **Languages:** Java, JavaScript, Python
+- **Development Tools:** Git, GitHub, Linux, Docker
+- **Research Interests:** Software safety, cybersecurity, DevOps, system reliability
+
+---
+
+## 📬 Get in Touch
+
+- 🌐 **Portfolio:** [faisalsherif.online]
+- 📜 **GitHub:** [https://github.com/faisalsherif7/]
+- ✉️ **Email:** [faisalsherif+github@outlook.com]
+- 📝 **LinkedIn:** [https://www.linkedin.com/in/faisal-s-70b442262/]
