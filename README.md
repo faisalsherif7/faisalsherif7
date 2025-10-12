@@ -11,12 +11,5 @@ I'm a **former medical student turned software engineer** currently pursuing a *
 
 ## 🛠️ Tech & Tools
 
-- **Languages:** Java, JavaScript, Python
+- **Languages:** Java, JavaScript, Python, HTML, CSS, SQL
 - **Development Tools:** Git, GitHub, Linux, Docker
-
-## 📬 Get in Touch
-
-- 🌐 [**Portfolio**](https://www.faisalsherif.online)
-- 📜 [**GitHub**](https://github.com/faisalsherif7/)
-- ✉️ [**Email**](mailto:faisalsherif+github@outlook.com)
-- 📝 [**LinkedIn**](https://www.linkedin.com/in/faisal-s-70b442262/)
